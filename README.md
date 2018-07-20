@@ -74,9 +74,9 @@ git clone local.git
 ```
 COMMIT:
 ```
-git commit -m local.git .
+git commit -m "??? README" *
 ```
 PUSH:
 ```
-git clone local
+git push
 ```
