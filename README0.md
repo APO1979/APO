@@ -2,8 +2,8 @@
 ## 
 |    | 2-Basics-assignment.ipynb|    | 3-Functions-assignment.ipynb |    | 4-Containers-assignment.ipynb|
 |:-: | :-----------------------:|:-: |:----------------------------:|:-: |:----------------------------:|
-| 1  | ok                       | 1a | ok                           | 1  |                              |
-| 2  | ok                       | 1b |                              | 2.1|                              |
+| 1  | ok                       | 1a | ok                           | 1  | ok                           |
+| 2  | ok                       | 1b |                              | 2.1| ok                           |
 | 3  | ok                       | 1c |                              | 2.2|                              |
 | 4  | ok                       | 1d |                              | 3  |                              |
 | 5  | ok                       | 1  |                              |    |  Parte 2: Tuplas             |
