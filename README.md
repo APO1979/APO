@@ -17,13 +17,13 @@
 | 12 | ok                       |    |                              | 2.2| ok                           |
 | 13 | ok                       |    |                              | 2.3| ok                           |
 | 14 | ok                       |    |                              |    |  Parte 3: Lambdas e Dicionári|
-| 15 |                          |    |                              | 1  |                              |
-| 16 |                          |    |                              | 2  |                              |
-| 17 |                          |    |                              | 3  |                              |
-| 18 |                          |    |                              | 4  |                              |
-| 19 |                          |    |                              | 5  |                              |
-| 20 |                          |    |                              | 6  |                              |
-| 21 |                          |    |                              | 7  |                              |
+| 15 |                          |    |                              | 1  | ok                           |
+| 16 |                          |    |                              | 2  | ok                           |
+| 17 |                          |    |                              | 3  | ok                           |
+| 18 |                          |    |                              | 4  | ok                           |
+| 19 |                          |    |                              | 5  | ok                           |
+| 20 |                          |    |                              | 6  | ok                           |
+| 21 |                          |    |                              | 7  | ok                           |
 | 22 |                          |    |                              |    |                              |
 
 |    | classes_01_construtores_exercicios.ipynb |    |classes_02_métodos_exercicios.ipynb |
